@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ main{
+    background: url(logo3.png) fixed center;
+    background-image: url(logo3.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.content{
+    padding-left: 600px;
+    height: auto;
+    margin: auto;
+    color:aqua;
+    position: relative;
+    padding-right: 100px;
+}
+.content .cn{
+    padding: 4px 10px;
+    height: 40 px;
+    background: #a600ff;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+.menu{
+    font-family:'Courier New', Courier, monospace;
+    color: blue;
+}
+p{
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+}
